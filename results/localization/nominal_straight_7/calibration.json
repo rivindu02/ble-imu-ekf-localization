@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "beacons": {
+    "B01": {
+      "p0_dbm": -59.02758664471544,
+      "n": 2.086901972911735,
+      "variance_dbm2": 3.641665099803922,
+      "validation_rmse_dbm": 1.908314727659964,
+      "min_distance_m": 0.5,
+      "max_distance_m": 25.0
+    },
+    "B02": {
+      "p0_dbm": -60.97459402573579,
+      "n": 1.9950272259768411,
+      "variance_dbm2": 3.7167237808345512,
+      "validation_rmse_dbm": 1.9278806448622672,
+      "min_distance_m": 0.5,
+      "max_distance_m": 25.0
+    },
+    "B03": {
+      "p0_dbm": -57.76613952163351,
+      "n": 2.320062014538824,
+      "variance_dbm2": 4.587157442876266,
+      "validation_rmse_dbm": 2.1417650298004833,
+      "min_distance_m": 0.5,
+      "max_distance_m": 25.0
+    },
+    "B04": {
+      "p0_dbm": -59.72580436172489,
+      "n": 2.2227399158732446,
+      "variance_dbm2": 3.7111309200714673,
+      "validation_rmse_dbm": 1.9264295782798466,
+      "min_distance_m": 0.5,
+      "max_distance_m": 25.0
+    }
+  },
+  "sample_hash": "b5785d48bcef5d087d6bac662c59511581c93e3594a9a2e5c6fc7ae822e4c011"
+}
