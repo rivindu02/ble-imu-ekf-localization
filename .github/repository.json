@@ -1,0 +1,20 @@
+{
+  "name": "ble-imu-ekf-localization",
+  "visibility": "public",
+  "description": "BLE RSSI, IMU and wheel-odometry localization with an explicit EKF, reproducible Python experiments, and a ROS 2/Gazebo demo.",
+  "topics": [
+    "robotics",
+    "indoor-localization",
+    "ble",
+    "bluetooth-low-energy",
+    "imu",
+    "sensor-fusion",
+    "extended-kalman-filter",
+    "state-estimation",
+    "python",
+    "numpy",
+    "ros2",
+    "gazebo",
+    "simulation"
+  ]
+}
