@@ -1,0 +1,74 @@
+{
+  "wheel_only": {
+    "availability": 1.0,
+    "samples": 1561,
+    "rmse_m": 1.947180935406557,
+    "median_m": 1.975087928163959,
+    "p90_m": 2.832980144608341,
+    "final_error_m": 3.461903727948222,
+    "heading_rmse_deg": 39.25871456890125,
+    "common_grid_rmse_m": 1.9490547266034353
+  },
+  "wheel_imu": {
+    "availability": 1.0,
+    "samples": 1561,
+    "rmse_m": 2.0740355201982976,
+    "median_m": 2.2310815872416185,
+    "p90_m": 2.9374947494184496,
+    "final_error_m": 2.1793849167602644,
+    "heading_rmse_deg": 8.055534006693433,
+    "common_grid_rmse_m": 2.0760313848029246
+  },
+  "ble_only": {
+    "availability": 0.9980781550288277,
+    "samples": 1558,
+    "rmse_m": 2.1632998589207153,
+    "median_m": 1.3982186585369436,
+    "p90_m": 3.2199939864925824,
+    "final_error_m": 0.9378521100855919,
+    "common_grid_rmse_m": 2.1632998589207153
+  },
+  "ble_wheel": {
+    "availability": 1.0,
+    "samples": 1561,
+    "rmse_m": 0.6276742125815958,
+    "median_m": 0.4358264722089384,
+    "p90_m": 1.0054118504602296,
+    "final_error_m": 0.6480721962676008,
+    "heading_rmse_deg": 17.48606276420417,
+    "common_grid_rmse_m": 0.6282773188465084
+  },
+  "fused": {
+    "availability": 1.0,
+    "samples": 1561,
+    "rmse_m": 0.483281070736602,
+    "median_m": 0.23384068395772153,
+    "p90_m": 0.8650230048942585,
+    "final_error_m": 0.5541941368190335,
+    "heading_rmse_deg": 4.241280952127583,
+    "common_grid_rmse_m": 0.4837449539923047
+  },
+  "imu_only": {
+    "availability": 1.0,
+    "samples": 1561,
+    "rmse_m": 1.794696123860776,
+    "median_m": 1.6478929072137525,
+    "p90_m": 2.5578860829586563,
+    "final_error_m": 2.3843723951003417,
+    "heading_rmse_deg": 8.055534006693433,
+    "common_grid_rmse_m": 1.7964231774653647
+  },
+  "diagnostics": {
+    "position_nees_mean": 4.905176527433438,
+    "position_95pct_ellipse_coverage": 0.766175528507367,
+    "mean_nis_before_gating": 1.0947518626297783,
+    "rejection_fraction": 0.0008710801393728223,
+    "late_packets": 0,
+    "unknown_ids": 0,
+    "stale_intervals": 0,
+    "max_radio_gap_s": 0.20000000000000284,
+    "recovery_after_45s_below_1p5m_for_2s": 0.0,
+    "minimum_covariance_eigenvalue": 2.572278472593795e-05,
+    "common_grid_availability": 0.9980781550288277
+  }
+}
