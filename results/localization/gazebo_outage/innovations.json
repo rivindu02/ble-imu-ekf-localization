@@ -1,0 +1,4970 @@
+[
+  {
+    "t": 2.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.6897500229891023,
+    "nis": 1.7132078081791309,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.897961591471031,
+    "nis": 3.942010806252967,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.2800000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.4814867559294242,
+    "nis": 0.4711949983593258,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.3800000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.10093796841537994,
+    "nis": 0.002670556679363266,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.6932148110212495,
+    "nis": 0.11649528264299663,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 3.608503050296136,
+    "nis": 3.3899543936822725,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.8483668987128823,
+    "nis": 0.7347591084025191,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.7221980450455305,
+    "nis": 0.13695292691508287,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.7800000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.3357312321731882,
+    "nis": 0.4404877524947344,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.4811961291486995,
+    "nis": 0.4725283956795376,
+    "reason": "accepted"
+  },
+  {
+    "t": 2.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.4976929539004118,
+    "nis": 0.5894177306311641,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.7688120715663871,
+    "nis": 0.14707699787409614,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.7832268960461306,
+    "nis": 0.16010036229866154,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.2800000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.393291581041794,
+    "nis": 1.235030917761239,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.3800000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.15300375727086646,
+    "nis": 0.006157678147422682,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.41209353980546837,
+    "nis": 0.04256751533434111,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.5059608847702322,
+    "nis": 0.06690530692817681,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.239695553204726,
+    "nis": 1.08252282962825,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.9687896864972743,
+    "nis": 0.2470995304352506,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.7800000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.8279050060416608,
+    "nis": 0.8467088154546831,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.8800000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.2464318331158921,
+    "nis": 0.40607655550345506,
+    "reason": "accepted"
+  },
+  {
+    "t": 3.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.3222443565243225,
+    "nis": 0.0273632225361805,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.080000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.36578733906041805,
+    "nis": 0.03409531338112258,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.5770105627530313,
+    "nis": 0.0870525426247599,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.3537634873927402,
+    "nis": 0.027026273025951973,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.380000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.0623105301834244,
+    "nis": 1.1213254344176686,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.5847822755117846,
+    "nis": 0.08781152507870466,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.7636435923605376,
+    "nis": 0.15255622954889475,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.580000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.6807121257852629,
+    "nis": 0.6101629878666426,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.8136191152009502,
+    "nis": 0.17461097797116343,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.8532882478107808,
+    "nis": 0.8863694759676461,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.885809097344918,
+    "nis": 0.7681817770008478,
+    "reason": "accepted"
+  },
+  {
+    "t": 4.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.0597686645451745,
+    "nis": 1.1192211217841344,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.080000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.200061846609998,
+    "nis": 1.252083367652792,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.823843874658408,
+    "nis": 0.8696252066144586,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.4929031282184866,
+    "nis": 1.3425517684198802,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.380000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.4704086881666854,
+    "nis": 0.5705774298021208,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.589795454285067,
+    "nis": 0.09034039056800956,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.249795027107794,
+    "nis": 0.016300479807689845,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.580000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.11268319813000005,
+    "nis": 0.0027426303713844287,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.1206055709808567,
+    "nis": 2.570690082505848,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.9897818442213264,
+    "nis": 0.2555098597548061,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.880000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.6367766553551064,
+    "nis": 0.10588298092399241,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.18001189569375242,
+    "nis": 0.006996084076783264,
+    "reason": "accepted"
+  },
+  {
+    "t": 5.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.010754012395295831,
+    "nis": 3.052078935933433e-05,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.6775736323790227,
+    "nis": 0.11979697398324998,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.1054238637513123,
+    "nis": 0.0023981037146402315,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.380000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.21170222914922476,
+    "nis": 0.011823370781381667,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.497674613499825,
+    "nis": 1.6327623230215453,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.24711810810413226,
+    "nis": 0.015938009644514944,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.580000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.709525677278009,
+    "nis": 0.10860014427788696,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.090952309477487,
+    "nis": 1.1533457097074846,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.8804882841736372,
+    "nis": 0.20327272392919657,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.880000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5613902031386857,
+    "nis": 0.635367222646233,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -5.340335641143568,
+    "nis": 6.147509198045431,
+    "reason": "accepted"
+  },
+  {
+    "t": 6.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.14590669976952597,
+    "nis": 0.005615869281614975,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.080000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.808547530171282,
+    "nis": 0.8599316505956096,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.9400817415499176,
+    "nis": 0.19042546139165414,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.380000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.18478083006928614,
+    "nis": 0.008997563802052997,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.480000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.376835609519091,
+    "nis": 0.03743930569367874,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.480000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.988538315102147,
+    "nis": 4.1330340051569285,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.580000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.1762810864878332,
+    "nis": 0.2980054241196741,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.8764174195601981,
+    "nis": 0.92740117152766,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.2188131142660694,
+    "nis": 0.39221697288448504,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.880000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.285580750376397,
+    "nis": 0.4288146675592713,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.200241295181243,
+    "nis": 1.0417284183757685,
+    "reason": "accepted"
+  },
+  {
+    "t": 7.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.2570433524520865,
+    "nis": 1.3418636106522381,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.7772055608733126,
+    "nis": 2.0423187849435234,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.9400166421513774,
+    "nis": 0.9742568885655254,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.2082167905498693,
+    "nis": 0.31388905117134674,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.7644684075786898,
+    "nis": 0.1552124161383899,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.2140466652412272,
+    "nis": 0.3804877283790942,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.2594757996106694,
+    "nis": 1.096772304311402,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.6715645772441405,
+    "nis": 0.11869749072531646,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.6350271080873426,
+    "nis": 3.514344126004555,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.8195249804309697,
+    "nis": 0.17294442403392793,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.843587299764934,
+    "nis": 1.7357191590874494,
+    "reason": "accepted"
+  },
+  {
+    "t": 8.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.10306448377566824,
+    "nis": 0.002795437560551873,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.1172259964172042,
+    "nis": 0.33211183026522434,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.463234434730495,
+    "nis": 1.5613021345779046,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.7809982919296488,
+    "nis": 0.130889051233468,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.3423537610435119,
+    "nis": 0.030841167413920435,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.7697459202669705,
+    "nis": 2.044287737679235,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.06177699382797641,
+    "nis": 0.0009804116977986928,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.7151087896819064,
+    "nis": 1.5811500278835027,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -4.003062342613276,
+    "nis": 4.2741692335984345,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.433663174949757,
+    "nis": 0.5249324876558027,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.476187871768417,
+    "nis": 1.312902191295267,
+    "reason": "accepted"
+  },
+  {
+    "t": 9.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.901728999916287,
+    "nis": 0.21372237577017608,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.8955432524228684,
+    "nis": 0.9601979497325188,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.520828748599584,
+    "nis": 0.5900410972806662,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.9412418342760844,
+    "nis": 0.18958745759501344,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.0502435436878557,
+    "nis": 0.28967613924474567,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.292493356879703,
+    "nis": 1.4054138749546177,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.1463662522886153,
+    "nis": 2.523084484748568,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.566372259136884,
+    "nis": 1.4090517749529796,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.5050939432328505,
+    "nis": 0.06696291095090615,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.4590408323174557,
+    "nis": 3.2011656345673085,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.6950680940492475,
+    "nis": 0.7301539730294581,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.1272255107783593,
+    "nis": 0.9669419438778842,
+    "reason": "accepted"
+  },
+  {
+    "t": 10.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 5.351791467299037,
+    "nis": 7.516995124427928,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.01225968149798,
+    "nis": 0.2744335425826201,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.6807684377134535,
+    "nis": 5.5796234736459445,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.42957562559018925,
+    "nis": 0.03941940628888355,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.5485192746408956,
+    "nis": 1.7007407189945023,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.437763728445688,
+    "nis": 1.5926448498922523,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 5.452182544022989,
+    "nis": 7.576309208706079,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.420840907746225,
+    "nis": 0.431344505569,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.2182997850823511,
+    "nis": 0.38935893010958483,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.1820710077879255,
+    "nis": 0.008398542873748187,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -4.3390248249666,
+    "nis": 4.019478667446135,
+    "reason": "accepted"
+  },
+  {
+    "t": 11.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.2544657038372975,
+    "nis": 0.4129599480723958,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.5323894008546972,
+    "nis": 0.07604378265756186,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.8906266112446275,
+    "nis": 0.20069315791753553,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.03647939827094149,
+    "nis": 0.00028416946226405274,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.40134786091904573,
+    "nis": 0.042259329112545256,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.3618572430411575,
+    "nis": 0.03515662763279379,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.2239425062863063,
+    "nis": 1.2512974691480248,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.027777634047694733,
+    "nis": 0.00016476911465827297,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.7947126064473196,
+    "nis": 0.1658110219418665,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.972097228417013,
+    "nis": 1.0450539986912475,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.17082096491314758,
+    "nis": 0.007351131444346534,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.1274747328963315,
+    "nis": 0.9661444841807822,
+    "reason": "accepted"
+  },
+  {
+    "t": 12.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.05219440306561296,
+    "nis": 0.0007156841913156038,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.0920473103205524,
+    "nis": 0.3205593108622019,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.1953072001641658,
+    "nis": 0.009604457207540353,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.4782661792097542,
+    "nis": 0.04883121648630586,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.529701397182265,
+    "nis": 0.6143354670618026,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.346654912926283,
+    "nis": 0.48770390070293873,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 4.359223955014471,
+    "nis": 4.0548882847343,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.846354870717434,
+    "nis": 0.8935501422262535,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.0221709216576755,
+    "nis": 0.2811609148236572,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.4529575754147004,
+    "nis": 0.5279873665141928,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.2900128416140006,
+    "nis": 0.3548209289855206,
+    "reason": "accepted"
+  },
+  {
+    "t": 13.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.774954663046813,
+    "nis": 2.0208120083007253,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.5893111798396404,
+    "nis": 3.217022603115892,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.5519529260588882,
+    "nis": 0.6313707871170101,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.480000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.469433107760608,
+    "nis": 1.6414563433483689,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.480000000000002,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.44844884135702046,
+    "nis": 0.0505497479661812,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.380252085983628,
+    "nis": 1.2071887091508442,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.1463328246356781,
+    "nis": 0.0056157117052395514,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.655848405892641,
+    "nis": 0.11579051831548128,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.023829549704373676,
+    "nis": 0.00014263806854633766,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.980000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.6107183755184309,
+    "nis": 0.07944858499356959,
+    "reason": "accepted"
+  },
+  {
+    "t": 14.980000000000002,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.9305934498851371,
+    "nis": 0.22717124765555968,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.180000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.6208852603550525,
+    "nis": 0.0971416833120381,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.280000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.6281365740942277,
+    "nis": 0.564504243659397,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.480000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.877125168896086,
+    "nis": 2.22888168865581,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.5985207442328573,
+    "nis": 0.07622811039395835,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.680000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.4828358225131097,
+    "nis": 0.5752004788755805,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.780000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.679345721033698,
+    "nis": 1.9341047694746811,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.6764492156665654,
+    "nis": 0.11477733641734393,
+    "reason": "accepted"
+  },
+  {
+    "t": 15.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.3672406389871696,
+    "nis": 0.3974451978692965,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.503312704391874,
+    "nis": 1.6892506008892374,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.7153892720543666,
+    "nis": 1.8542807606809126,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.1791094860728322,
+    "nis": 0.295458517599834,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.5284426879802453,
+    "nis": 0.07301786620663941,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.10349665887555659,
+    "nis": 0.0026965450283668118,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.1465235125487396,
+    "nis": 0.978665216983206,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.8407273378493727,
+    "nis": 0.8862326525009334,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.06625413446582229,
+    "nis": 0.0009312734367387683,
+    "reason": "accepted"
+  },
+  {
+    "t": 16.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -5.240632152154134,
+    "nis": 7.168456441654866,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.5881995664539375,
+    "nis": 0.09326115047991028,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.12513409382843577,
+    "nis": 0.003941813099464941,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.608491592619501,
+    "nis": 1.443342617161331,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.550249819638182,
+    "nis": 1.6981002974581194,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.6232119840416885,
+    "nis": 0.1047239893649566,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5041409742722607,
+    "nis": 0.573094077618691,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.658916106376708,
+    "nis": 0.5834074804310292,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.2929821029523367,
+    "nis": 0.43638708143966964,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.1084040978804808,
+    "nis": 1.1990180648936857,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.1683162291833469,
+    "nis": 0.3463543961457175,
+    "reason": "accepted"
+  },
+  {
+    "t": 17.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 4.124995239686598,
+    "nis": 4.442022333860792,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.922343686178678,
+    "nis": 0.9415175260227368,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.131452848394062,
+    "nis": 0.27067160049844086,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.7255342362680324,
+    "nis": 0.7752916063556894,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.161362844771503,
+    "nis": 0.3636775931487569,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.865293418190248,
+    "nis": 2.100490762522357,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.5231220262312064,
+    "nis": 1.344659474133732,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.045317664316542,
+    "nis": 1.0885458928727745,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.9926038963940016,
+    "nis": 4.3010446751580105,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.4490675868542269,
+    "nis": 0.05178952371739647,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.18846530042044662,
+    "nis": 0.007492238251518401,
+    "reason": "accepted"
+  },
+  {
+    "t": 18.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.107014591054053,
+    "nis": 2.511133036634717,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.0275015867726722,
+    "nis": 1.1092618234741198,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.068677813224781,
+    "nis": 0.2964606580987317,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.7114822030214896,
+    "nis": 0.13653750098213419,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.5840391154141429,
+    "nis": 0.07175775518088622,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.683627901724705,
+    "nis": 3.5159983660413747,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.12996809294674,
+    "nis": 0.3445050909507132,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.6787950243215732,
+    "nis": 0.1186506114980255,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.4487894099259222,
+    "nis": 0.04231879364332954,
+    "reason": "accepted"
+  },
+  {
+    "t": 19.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.5823181640465407,
+    "nis": 0.08797303994733965,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.307895753947747,
+    "nis": 1.4376917255101247,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.348762509956757,
+    "nis": 4.881537917343645,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.39732648605725274,
+    "nis": 0.033125297208738316,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.118818944930908,
+    "nis": 1.1615828048187793,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.9399079909431975,
+    "nis": 0.2385101256452334,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.050021055967676,
+    "nis": 1.0887038798962099,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.6969840348735516,
+    "nis": 0.6033512931484849,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.065661072113457,
+    "nis": 0.29376465294300114,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.7268492155644424,
+    "nis": 2.0082142373454843,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.50468526867202,
+    "nis": 0.06611289798978721,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.1721483988887513,
+    "nis": 0.9874525216600015,
+    "reason": "accepted"
+  },
+  {
+    "t": 20.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.0424958016814685,
+    "nis": 1.079210216088094,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.5071021792181654,
+    "nis": 3.323218448001409,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.38668351274118606,
+    "nis": 0.03892354492142384,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.025023948348604,
+    "nis": 0.8556000742957997,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.45008510945373814,
+    "nis": 0.05227750734893503,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.3494852109728868,
+    "nis": 1.4916808666292511,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.092557383076951,
+    "nis": 1.1415308918160387,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.13318149916952393,
+    "nis": 0.0037009731061970115,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.4897220000127476,
+    "nis": 3.142971286820607,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.1496619865051088,
+    "nis": 0.3572330061274852,
+    "reason": "accepted"
+  },
+  {
+    "t": 21.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.402350203927398,
+    "nis": 1.4848399519628646,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.3455976165875683,
+    "nis": 0.48924419522574325,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 3.3554138427222995,
+    "nis": 2.9416013032846364,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.245442241775521,
+    "nis": 0.32165969420883556,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.31801460717136365,
+    "nis": 0.02602122857915968,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.009916476851288,
+    "nis": 1.0914859346985903,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.8365623639782882,
+    "nis": 0.18308010134659775,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.0576952498124825,
+    "nis": 0.875722493981976,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.020229057033532172,
+    "nis": 0.0001052509231792894,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.277022812339041,
+    "nis": 0.020750566483110897,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.7282061096956625,
+    "nis": 0.13899291345447953,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.1681324259961059,
+    "nis": 0.005815684194035884,
+    "reason": "accepted"
+  },
+  {
+    "t": 22.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.1299077298673268,
+    "nis": 0.3282497994295879,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.2869894761720815,
+    "nis": 0.4481414712638457,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.37722871997915775,
+    "nis": 0.03735866998278017,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.2954178599633082,
+    "nis": 0.3442529010960463,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.3716743038757784,
+    "nis": 0.4829967391520025,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.867502277886274,
+    "nis": 0.944060368498489,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.9837173008994711,
+    "nis": 0.2544226330739247,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.9101838326394756,
+    "nis": 0.7458667391036488,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.9726718151414389,
+    "nis": 0.9972762531634696,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.41309660455611663,
+    "nis": 0.04491568222415994,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.41160588074365023,
+    "nis": 0.034454714927304314,
+    "reason": "accepted"
+  },
+  {
+    "t": 23.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.2125514719521675,
+    "nis": 0.3771969580043514,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.080000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.2223780446607577,
+    "nis": 0.4048148424035519,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.180000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.13132073617379092,
+    "nis": 0.004544830658571297,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 4.99577233886302,
+    "nis": 5.059015790777544,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.380000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.8159625808455928,
+    "nis": 0.8459232750056292,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.2533278769314649,
+    "nis": 0.4258413775726456,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.6502344565104039,
+    "nis": 0.11158145249262143,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.580000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.238751539166458,
+    "nis": 1.0102501754172146,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.680000000000003,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.25827501040500067,
+    "nis": 0.01711824127022531,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.06416203705373391,
+    "nis": 0.0011165643503457446,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.880000000000003,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.6316031897102476,
+    "nis": 0.7030244369630546,
+    "reason": "accepted"
+  },
+  {
+    "t": 24.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.9827165095498884,
+    "nis": 0.788998392920079,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.3404579432304047,
+    "nis": 0.021404338978988902,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5007327142079134,
+    "nis": 0.5751817052317264,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.388967076620176,
+    "nis": 1.115197603596784,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.156850250420831,
+    "nis": 2.540759482543004,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -4.78870479107853,
+    "nis": 4.586754740773328,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -6.683429043045763,
+    "nis": 0.9447922835317933,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.9189373186824668,
+    "nis": 0.22506327451248434,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.3283278183432117,
+    "nis": 0.02857389943474818,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.5352802405196684,
+    "nis": 0.05962678147009815,
+    "reason": "accepted"
+  },
+  {
+    "t": 45.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.5864299364892105,
+    "nis": 1.1823472667974413,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.45021149615776324,
+    "nis": 0.05448165832277263,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.815227543950755,
+    "nis": 3.85872698683414,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.4628884584274573,
+    "nis": 0.045003376163774256,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.7103116047917837,
+    "nis": 2.8453383324021098,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.707567455672006,
+    "nis": 0.1348141289525269,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 3.5097857748304193,
+    "nis": 3.2662435685363866,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.158574823562077,
+    "nis": 2.6837808096191496,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.11760346533608868,
+    "nis": 0.0036662216510675925,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.0174353287656857,
+    "nis": 0.2188921506702603,
+    "reason": "accepted"
+  },
+  {
+    "t": 46.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.9090839954683361,
+    "nis": 0.1864703042363334,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.805061211883924,
+    "nis": 2.120192270807384,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.675805970396027,
+    "nis": 1.8980676491114286,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.698011331250669,
+    "nis": 1.5429865840397423,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.01726454332496985,
+    "nis": 6.98617648020445e-05,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.9253230152131806,
+    "nis": 0.9989378961034291,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.1406790118825398,
+    "nis": 0.34485552055952867,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.7754479339146059,
+    "nis": 0.12769092058892498,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.5921179815520219,
+    "nis": 0.08409026479615632,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.7733194114800597,
+    "nis": 0.1611521754232781,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.31718409250034085,
+    "nis": 0.021398452227190667,
+    "reason": "accepted"
+  },
+  {
+    "t": 47.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.8342277514730085,
+    "nis": 0.820805592716988,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.0447382578302182,
+    "nis": 0.2891978503503682,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.26328585898723134,
+    "nis": 0.01476211544915042,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -4.207257921656833,
+    "nis": 4.354769814677524,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.1256698742240019,
+    "nis": 0.3408371646259808,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.6287255118781303,
+    "nis": 0.7028038969536232,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.4125456889422168,
+    "nis": 1.454141643873144,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.20426016444621098,
+    "nis": 0.011222388106056278,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.7446931049454832,
+    "nis": 1.9948041972952615,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.7794204067486845,
+    "nis": 3.0472416469421924,
+    "reason": "accepted"
+  },
+  {
+    "t": 48.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.3534277620061914,
+    "nis": 0.4603598655079117,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.6597013150863802,
+    "nis": 0.11701308096422203,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.395125403193717,
+    "nis": 1.5191003312342497,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.7651523393467272,
+    "nis": 0.7876426659516654,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.39250270737535686,
+    "nis": 0.04138458248269372,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.1239546279480948,
+    "nis": 2.4771256102231494,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.930435513762646,
+    "nis": 2.3036975714753294,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.4027201018567155,
+    "nis": 0.04288306728991686,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.09481024520819403,
+    "nis": 0.001920182876743135,
+    "reason": "accepted"
+  },
+  {
+    "t": 49.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.5226757663473052,
+    "nis": 0.592980851743328,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.006640527284958,
+    "nis": 0.2716949236210668,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.025237961271727727,
+    "nis": 0.0001683996165732141,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.9563163560576697,
+    "nis": 0.19545955044168428,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.39843094814501967,
+    "nis": 0.04072656581741343,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.2589960983021342,
+    "nis": 0.4243427481394593,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.941800775058823,
+    "nis": 1.8502707480205263,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.959332931523292,
+    "nis": 2.256241052475984,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.4880777523611073,
+    "nis": 3.2543116675053088,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.041313772353746,
+    "nis": 1.1013966138580848,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.3041424719369843,
+    "nis": 0.019786118490372345,
+    "reason": "accepted"
+  },
+  {
+    "t": 50.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.527470897225072,
+    "nis": 3.2071109804744533,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.07136126215041827,
+    "nis": 0.0013623015767284892,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.2274655454161802,
+    "nis": 2.7535494722280056,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.9982137459201965,
+    "nis": 0.26588901325294706,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.48644311032923326,
+    "nis": 0.050615123548081904,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.091383153917036,
+    "nis": 0.30751805806131355,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.0048415607289485,
+    "nis": 0.2691902052095787,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.3801155866567427,
+    "nis": 0.5031015877084877,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.3790522483051717,
+    "nis": 0.030739251178833225,
+    "reason": "accepted"
+  },
+  {
+    "t": 51.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.6104940133568562,
+    "nis": 0.09647249848813864,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.09119296692075807,
+    "nis": 0.0022151113198830875,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.5677812167857468,
+    "nis": 0.6491033338977377,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.2424471262515198,
+    "nis": 1.0763190440901331,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.9052460922662107,
+    "nis": 0.9418906062413631,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.4255822105823626,
+    "nis": 3.1222676075282076,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.892394958644516,
+    "nis": 2.2085488301160474,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.6691808819411023,
+    "nis": 0.09586817941221511,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.4940141163327638,
+    "nis": 0.06345425111174677,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.871666705207076,
+    "nis": 3.9835841427300784,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.181462655925614,
+    "nis": 0.3683078801351266,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.4990640302731748,
+    "nis": 0.053326006706584356,
+    "reason": "accepted"
+  },
+  {
+    "t": 52.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.7725362462753225,
+    "nis": 0.818938385809562,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.49960594524577573,
+    "nis": 0.06621790071865469,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.841601526730372,
+    "nis": 0.18686475906394473,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.5085536766282388,
+    "nis": 0.055388741181165255,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.3495393916471272,
+    "nis": 0.47570371199868317,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.3024378948491204,
+    "nis": 0.024216342501314665,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.408214339427758,
+    "nis": 0.5231241390118968,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.4592449336298756,
+    "nis": 0.045176434837126495,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.2810366956489503,
+    "nis": 0.429397866839437,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.7090813753947316,
+    "nis": 0.7731977198338023,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.4039098556010572,
+    "nis": 0.042996232660067996,
+    "reason": "accepted"
+  },
+  {
+    "t": 53.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.3723445872582687,
+    "nis": 1.205205432422284,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.2349771497296587,
+    "nis": 0.403418024464338,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.721886361874823,
+    "nis": 1.9521605479982553,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.881812740911741,
+    "nis": 1.7784007557648562,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.8803435132802093,
+    "nis": 0.2030832533565442,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.39192039721817196,
+    "nis": 0.04052584779941301,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.7925657629024414,
+    "nis": 0.16558093363803747,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.0492991687675897,
+    "nis": 0.23582458527828518,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.1882753582282817,
+    "nis": 0.3704682889152601,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.7071854002194016,
+    "nis": 0.13190498430911743,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.9450560552159288,
+    "nis": 0.2352863785915526,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.3140968028438493,
+    "nis": 0.3697851013644971,
+    "reason": "accepted"
+  },
+  {
+    "t": 54.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.207053601741393,
+    "nis": 1.2789212839329542,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.8846720391883593,
+    "nis": 0.20607436357216935,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.0606011811711511,
+    "nis": 0.0009676819596993361,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.404105636375533,
+    "nis": 0.5180431456321802,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.761355705540609,
+    "nis": 0.815012776266854,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 3.060762001278249,
+    "nis": 2.4667812531381945,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 5.20302543072799,
+    "nis": 5.795451978772198,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.1824525087846922,
+    "nis": 0.008751950649483387,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.0571089762877364,
+    "nis": 0.2938133509693232,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.7049833426993501,
+    "nis": 0.10632355041531273,
+    "reason": "accepted"
+  },
+  {
+    "t": 55.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.5540977760554,
+    "nis": 0.635867764934156,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.2293259104430518,
+    "nis": 0.39722493218295496,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.9237653830050334,
+    "nis": 0.2243872568966283,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.3729947295595508,
+    "nis": 0.4032252051688072,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.3330867901229766,
+    "nis": 1.4335536692885829,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.678359195154087,
+    "nis": 0.12093159513027743,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.45394698654877175,
+    "nis": 0.054171477811453365,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.6457375455770915,
+    "nis": 0.08915541701928013,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.5434410019578735,
+    "nis": 1.7046908716059852,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.6625338717362013,
+    "nis": 0.11524765323092365,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.22724099687849275,
+    "nis": 0.013559843931489873,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.8807126189404357,
+    "nis": 0.7559750590874048,
+    "reason": "accepted"
+  },
+  {
+    "t": 56.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -5.211546443538737,
+    "nis": 7.16515196190975,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.5549337468325888,
+    "nis": 0.08069280374450848,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.674891289355344,
+    "nis": 1.877825570746003,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 3.5590025465061643,
+    "nis": 2.706689979933999,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.6033449599196103,
+    "nis": 0.6790746445906936,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.2599230399660826,
+    "nis": 0.4153579125891894,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.2644235856905368,
+    "nis": 0.41901773480274734,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.2087674698107804,
+    "nis": 1.0423320993621652,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.4814375862619187,
+    "nis": 0.06128201802697738,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.8109956592827956,
+    "nis": 0.1717582341951558,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.2607382178784547,
+    "nis": 1.3386392210566251,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.748905510895753,
+    "nis": 1.6140911207978177,
+    "reason": "accepted"
+  },
+  {
+    "t": 57.980000000000004,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.6496312336575016,
+    "nis": 0.11163459145633489,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.6279160428326094,
+    "nis": 0.6901840390367484,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.31045083353666314,
+    "nis": 0.02524837244011851,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.5377716924968325,
+    "nis": 0.061767911144013275,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.1189207558700076,
+    "nis": 2.5738079779540404,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.026057794396678,
+    "nis": 2.376443447458823,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.0877647611493444,
+    "nis": 0.002017451643713346,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.138846679887564,
+    "nis": 0.27694342867341504,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.11521392679290443,
+    "nis": 0.0035138015389509815,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.7691609269720061,
+    "nis": 0.1535773756362563,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.14813303533355793,
+    "nis": 0.0057399076372369896,
+    "reason": "accepted"
+  },
+  {
+    "t": 58.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.417748875069009,
+    "nis": 1.2475987482501139,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.446155574181759,
+    "nis": 0.5410240775220339,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.204437360817181,
+    "nis": 1.2704298374973269,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.4518977249274485,
+    "nis": 3.060870606191091,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.11035660468357378,
+    "nis": 0.003180410614830901,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.2130780732037607,
+    "nis": 2.2004297163791637,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 4.154401775681833,
+    "nis": 4.573783875566594,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.5914899751615366,
+    "nis": 0.08987095337074927,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 4.308488498485033,
+    "nis": 4.844749261828454,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.565990891280748,
+    "nis": 0.5224399955040606,
+    "reason": "accepted"
+  },
+  {
+    "t": 59.980000000000004,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.98563787151366,
+    "nis": 0.25773411946804475,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.8440944431110751,
+    "nis": 0.18103838545672996,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.618760918916351,
+    "nis": 0.09982672095317326,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.8003827525772635,
+    "nis": 3.0775291003267307,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.18108962877079193,
+    "nis": 0.00870308895346295,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.0149950093984188,
+    "nis": 0.25921074945030176,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.441162345548989,
+    "nis": 3.0884711283705384,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.09028758875339804,
+    "nis": 0.0017392099715880676,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.6519689875052705,
+    "nis": 0.1128658751598954,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.714748957479557,
+    "nis": 1.8549184884253274,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.6591208942234346,
+    "nis": 1.8444676239662925,
+    "reason": "accepted"
+  },
+  {
+    "t": 60.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.1542862700735412,
+    "nis": 2.1231546039294535,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.15310387972880335,
+    "nis": 0.005898905337968324,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.48214948293353643,
+    "nis": 0.04962751063807069,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.202191820393864,
+    "nis": 1.2885009147891908,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.03525633831708319,
+    "nis": 0.00032413727379589877,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.7810803109287718,
+    "nis": 0.6770480957685132,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.0239019734468968,
+    "nis": 0.27843519710958997,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.7046245390109362,
+    "nis": 0.7073645970817728,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5593637627196841,
+    "nis": 0.6340133834657252,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.1281057458525794,
+    "nis": 0.9671489594160625,
+    "reason": "accepted"
+  },
+  {
+    "t": 61.980000000000004,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.9537358481127711,
+    "nis": 0.24176259782512727,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.120727667748355,
+    "nis": 1.0888134798204168,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.327465223072025,
+    "nis": 0.4599426668734111,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.38962992770945,
+    "nis": 0.41320390185811656,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.8920062213819051,
+    "nis": 0.2115413867356517,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.2936171837421,
+    "nis": 1.2680145336018258,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.9557878331212493,
+    "nis": 0.19565047816890746,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.0990369691282353,
+    "nis": 0.3212237981768958,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.9589130878420633,
+    "nis": 3.7815497232875868,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.88,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.128636204039438,
+    "nis": 0.33298495021525587,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.980000000000004,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.9937652804142942,
+    "nis": 0.21184523233866426,
+    "reason": "accepted"
+  },
+  {
+    "t": 62.980000000000004,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.0751399147882097,
+    "nis": 1.145735854845329,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.08,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.9526706150032567,
+    "nis": 0.2172601871064315,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 3.4891816876838675,
+    "nis": 2.6148997391202253,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.38,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.030407229680633918,
+    "nis": 0.00024601609987998964,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.480000000000004,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.2959588528894841,
+    "nis": 0.020814265977477132,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.480000000000004,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.3137957316324815,
+    "nis": 0.4517327796269477,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.58,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.6747884947648686,
+    "nis": 0.09793750966309352,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.584541413882107,
+    "nis": 0.09092928714711435,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.7957210690772172,
+    "nis": 0.15097003900977854,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 5.37339372650419,
+    "nis": 6.215606236118416,
+    "reason": "accepted"
+  },
+  {
+    "t": 63.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.3752238076369281,
+    "nis": 0.03746308980927656,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.6953843807261393,
+    "nis": 3.2697633113443065,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.07615834860037296,
+    "nis": 0.0015202028164378535,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.6845894191879012,
+    "nis": 0.10103271966479757,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.5856747677115806,
+    "nis": 0.09127222180621265,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.217300850707076,
+    "nis": 2.4687790810615136,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.2551940590717976,
+    "nis": 0.017096146428163057,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.6632403533073301,
+    "nis": 0.09494905046022206,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.7089963459255841,
+    "nis": 0.13377766525797072,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.19033677835227536,
+    "nis": 0.00863600393147282,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.13093320980186718,
+    "nis": 0.0045025834076998904,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.158669490376397,
+    "nis": 1.0066177101117706,
+    "reason": "accepted"
+  },
+  {
+    "t": 64.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.3612739409408476,
+    "nis": 0.493105042676268,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.3394881412671396,
+    "nis": 1.3179730763742172,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.3131013298643808,
+    "nis": 0.45332622623174584,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.6428095635343567,
+    "nis": 0.5834931453239034,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.9481609020391915,
+    "nis": 1.0096504386306278,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.6093836093615863,
+    "nis": 0.6223619120633792,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5487666388491164,
+    "nis": 0.6309110769387009,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.767420152714095,
+    "nis": 2.0368581968747153,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.6172495521592936,
+    "nis": 0.6355205818570188,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.3029369797753816,
+    "nis": 0.4463502569664542,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.6912869866998506,
+    "nis": 0.10340882036644063,
+    "reason": "accepted"
+  },
+  {
+    "t": 65.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.1321609142891873,
+    "nis": 2.6081958387382973,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.5712420656403907,
+    "nis": 0.6059498396819508,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.9523919933760538,
+    "nis": 0.2385735194203405,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.0760368628917405,
+    "nis": 0.933000677097891,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.1150068619027564,
+    "nis": 0.33033288303783,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.54596420154175,
+    "nis": 3.304418470909072,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.17991457584338377,
+    "nis": 0.007004065731130596,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.5751791794535137,
+    "nis": 0.08786814113823359,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.6217612625919458,
+    "nis": 0.6501245513677144,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.9813525297428498,
+    "nis": 0.25330191812348857,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.7023501818181757,
+    "nis": 1.5804257881935282,
+    "reason": "accepted"
+  },
+  {
+    "t": 66.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.74576378623901,
+    "nis": 0.8092637483688191,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.6426260839804456,
+    "nis": 3.2905158477024012,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -2.212564042000537,
+    "nis": 1.288978586306182,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 4.493782411182082,
+    "nis": 4.371969892086207,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.2527563679895053,
+    "nis": 0.016954021165786592,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.0480682152701064,
+    "nis": 1.0425314784179054,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.7974266944401052,
+    "nis": 0.1675524571722548,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.18431974497261194,
+    "nis": 0.0073564476731571805,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.3261707839522643,
+    "nis": 0.4665751335085785,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.78,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.9826748765155315,
+    "nis": 2.2201785165836068,
+    "reason": "accepted"
+  },
+  {
+    "t": 67.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.4003734420868597,
+    "nis": 0.5163856112156815,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.566679153298097,
+    "nis": 5.4856978534792376,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.28,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.9233607426467927,
+    "nis": 1.848990715633646,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 4.107691481963684,
+    "nis": 4.468768604140473,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.016642513934428393,
+    "nis": 6.995734328811485e-05,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.6761980316119036,
+    "nis": 0.12034708760633607,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.6792164002594916,
+    "nis": 0.09979806376189516,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.535763256245275,
+    "nis": 0.07596156185335746,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.45256269190073795,
+    "nis": 0.052053017017073634,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.9462355072772652,
+    "nis": 0.9965395294105526,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.037828243690285035,
+    "nis": 0.00030946572064546564,
+    "reason": "accepted"
+  },
+  {
+    "t": 68.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -3.6651103759562034,
+    "nis": 3.553110324792935,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.1921954404502912,
+    "nis": 2.601053259565419,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.41650930447025303,
+    "nis": 0.04561014955255679,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.2634031397828949,
+    "nis": 0.34510567937650805,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.118402466560397,
+    "nis": 1.1863504843816828,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.9364072417154858,
+    "nis": 0.22564035541733757,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.4032600212077,
+    "nis": 1.248459085449749,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.9911836763457842,
+    "nis": 1.0472543419233526,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.347081407992391,
+    "nis": 1.4230926867648963,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.489072916251601,
+    "nis": 1.6269146736687037,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -4.955831814973649,
+    "nis": 5.306062934415857,
+    "reason": "accepted"
+  },
+  {
+    "t": 69.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.7300981362715078,
+    "nis": 0.1407739182721637,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.699726734744658,
+    "nis": 0.7478377670861087,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.2261936047960518,
+    "nis": 0.3944834922665559,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.21697015221479887,
+    "nis": 0.010167201098873244,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.449292466415116,
+    "nis": 0.5543582349631484,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.008263850085669,
+    "nis": 1.0493050866469338,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.05097533130411591,
+    "nis": 0.0006814810133871025,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.430828452371216,
+    "nis": 0.4420285367152927,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.8367762843803348,
+    "nis": 0.18475055063943763,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.6051288772290206,
+    "nis": 0.09585854124108655,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.8355800187225526,
+    "nis": 0.15057841500942085,
+    "reason": "accepted"
+  },
+  {
+    "t": 70.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.06134996139287807,
+    "nis": 0.00099263028367975,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -3.2522045115126588,
+    "nis": 2.761168933088235,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.7678822966984029,
+    "nis": 0.1541640435693291,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.2478585640126028,
+    "nis": 0.3356234900696247,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -2.2902396675345074,
+    "nis": 1.382252947244855,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 3.209060203026951,
+    "nis": 2.7003589144929774,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.3038388847014915,
+    "nis": 0.4443832361751981,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -7.315904890569271,
+    "nis": 11.533227133201677,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.6620986108644473,
+    "nis": 0.7281104052382784,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.4101068735303386,
+    "nis": 0.04411754306464531,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.419772733192374,
+    "nis": 5.0992391049940515,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.0525629131706893,
+    "nis": 2.0066740638888803,
+    "reason": "accepted"
+  },
+  {
+    "t": 71.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.9772392840956883,
+    "nis": 1.0300958899661807,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.9552062693832681,
+    "nis": 0.2380520350576584,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.6699043630352577,
+    "nis": 1.5340576166971598,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.1561550469293707,
+    "nis": 0.3520364132877172,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.02477073181820799,
+    "nis": 0.00013192305536898331,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.5251041240102694,
+    "nis": 0.6122066784789253,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.1476392773013373,
+    "nis": 0.005738273940204654,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.1728223101186757,
+    "nis": 1.2256947070066166,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.2191279089529985,
+    "nis": 0.010313923209745167,
+    "reason": "accepted"
+  },
+  {
+    "t": 72.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -4.504681231869611,
+    "nis": 5.343064710589631,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.8101616593616825,
+    "nis": 0.8654249842716872,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.8295928988218293,
+    "nis": 2.073596200834771,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.885492721926738,
+    "nis": 2.205846128494744,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 4.290056151376632,
+    "nis": 3.946116312227674,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.3635092858629463,
+    "nis": 2.9759136549976937,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.5054894123456393,
+    "nis": 0.0678520487236603,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.1752219889174285,
+    "nis": 0.35480505916627664,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.6348528506842825,
+    "nis": 0.08629360979039309,
+    "reason": "accepted"
+  },
+  {
+    "t": 73.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.0512321355714676,
+    "nis": 2.4490398491673577,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.6023064905565576,
+    "nis": 0.09652081337352664,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -5.958413301007965,
+    "nis": 9.108886425213822,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 3.4125271986449803,
+    "nis": 3.0582198041093185,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.4600650735425802,
+    "nis": 0.05630492672437233,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.9670904649093046,
+    "nis": 0.24031382751808608,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.2909189925172484,
+    "nis": 0.3563198550434211,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.02101929701309757,
+    "nis": 0.00011603558307547456,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.9465746672383091,
+    "nis": 0.2294675714353584,
+    "reason": "accepted"
+  },
+  {
+    "t": 74.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -3.0131452660692446,
+    "nis": 1.9388519941081592,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 2.3281160842569903,
+    "nis": 1.4452140933508146,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.039311708833452,
+    "nis": 0.2760552357541819,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.9051537968679924,
+    "nis": 0.1749307224970897,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.7215211062739115,
+    "nis": 0.13679954221996893,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.506142757678063,
+    "nis": 0.0683829564038905,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.9809631035903834,
+    "nis": 0.2456394796040504,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -2.917897053808332,
+    "nis": 1.8177258232426183,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.12351089101692025,
+    "nis": 0.0040112054219923815,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -1.4322532372450496,
+    "nis": 0.5480477742048618,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.106675481974307,
+    "nis": 4.293617400092568,
+    "reason": "accepted"
+  },
+  {
+    "t": 75.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.5607252197074786,
+    "nis": 0.519671650325857,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.4695388361274411,
+    "nis": 0.05894422174577563,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.4339188213439087,
+    "nis": 1.5080281642103557,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.5433665435876094,
+    "nis": 0.5080307211538736,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.3990336904162888,
+    "nis": 0.5146139130264848,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 5.24746965581906,
+    "nis": 7.373050293497575,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 0.4594044769785768,
+    "nis": 0.05369066650571708,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.975046966788156,
+    "nis": 0.20280539958377247,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.2049627634277158,
+    "nis": 0.3819088183020648,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.6401423683396814,
+    "nis": 0.1097723679367299,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -1.3243067431173756,
+    "nis": 0.4450509206936768,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.036711436763028,
+    "nis": 0.22908983790847293,
+    "reason": "accepted"
+  },
+  {
+    "t": 76.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.3249362818022234,
+    "nis": 0.4619723391497635,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.7118037495336864,
+    "nis": 0.1358504549499659,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.5213235655957078,
+    "nis": 0.5871198804357355,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -0.919215824754545,
+    "nis": 0.18012121142968404,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 1.322598876179228,
+    "nis": 0.46953328860281407,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 1.6608002576781473,
+    "nis": 0.6981339807194321,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.28983952440741234,
+    "nis": 0.017907133685143288,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.12803437183031,
+    "nis": 1.1932093882183643,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -2.773511810824573,
+    "nis": 2.0662348783252646,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -4.519954299885242,
+    "nis": 5.158058918341843,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.5419440841265413,
+    "nis": 0.5062970226542675,
+    "reason": "accepted"
+  },
+  {
+    "t": 77.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -0.2657649251994201,
+    "nis": 0.01860891557151323,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -5.149246096688827,
+    "nis": 7.125980653616795,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 2.32001848634377,
+    "nis": 1.363363475867228,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.28000000000002,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.3463266454806444,
+    "nis": 0.3859472813490937,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 1.6552019990016191,
+    "nis": 0.7223666883541978,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.49209465912639416,
+    "nis": 0.0651597118636311,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": -1.416685432028558,
+    "nis": 0.42720493044759206,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.656423005825971,
+    "nis": 0.7228673471887701,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.3860711989352694,
+    "nis": 0.037517758854017286,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 1.8707088881411522,
+    "nis": 0.7444511917378359,
+    "reason": "accepted"
+  },
+  {
+    "t": 78.98,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": -1.118670424752736,
+    "nis": 0.3299271370316704,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.08000000000001,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": 0.8923421340707733,
+    "nis": 0.2144656315288644,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.18,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": 3.15122667448081,
+    "nis": 2.5043043670553855,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.38000000000001,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 0.78808293450561,
+    "nis": 0.1638462165039806,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.48,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.886094623892788,
+    "nis": 0.21153791994275925,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.48,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -3.0120958231856463,
+    "nis": 2.285144211674366,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.58000000000001,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 0.9832245835321913,
+    "nis": 0.20555940697378194,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.68,
+    "beacon_id": "B04",
+    "accepted": true,
+    "innovation_dbm": 2.253628970117333,
+    "nis": 1.3400052517979426,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.78000000000002,
+    "beacon_id": "B01",
+    "accepted": true,
+    "innovation_dbm": -0.6922984580310896,
+    "nis": 0.12918546463203442,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.88000000000001,
+    "beacon_id": "B02",
+    "accepted": true,
+    "innovation_dbm": -0.8398020696151178,
+    "nis": 0.17848500209800067,
+    "reason": "accepted"
+  },
+  {
+    "t": 79.98,
+    "beacon_id": "B03",
+    "accepted": true,
+    "innovation_dbm": 2.145461503188045,
+    "nis": 0.9780426946395302,
+    "reason": "accepted"
+  }
+]

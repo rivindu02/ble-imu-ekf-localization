@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "reason": "complete",
+  "scenario": "beacon_outage",
+  "clock": "Gazebo simulation seconds",
+  "native_imu_messages": 4003,
+  "encoder_messages": 800,
+  "duration_s": 80.08000000000001,
+  "gazebo_epoch_s": 0.02,
+  "latency_policy": "zero modeled transport delay; out-of-order acquisition events dropped; receipt times logged",
+  "seed": 7,
+  "config": {
+    "schema_version": 1,
+    "track_m": 0.4,
+    "receiver_z_m": 0.35,
+    "dt_s": 0.05,
+    "duration_s": 80.0,
+    "start": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "beacons": [
+      {
+        "id": "B01",
+        "xyz": [
+          -3.0,
+          -2.0,
+          1.2
+        ],
+        "p0_dbm": -59.0,
+        "n": 2.1
+      },
+      {
+        "id": "B02",
+        "xyz": [
+          7.0,
+          -2.0,
+          1.2
+        ],
+        "p0_dbm": -61.0,
+        "n": 2.0
+      },
+      {
+        "id": "B03",
+        "xyz": [
+          7.0,
+          9.0,
+          1.2
+        ],
+        "p0_dbm": -58.0,
+        "n": 2.3
+      },
+      {
+        "id": "B04",
+        "xyz": [
+          -3.0,
+          9.0,
+          1.2
+        ],
+        "p0_dbm": -60.0,
+        "n": 2.2
+      }
+    ],
+    "radio": {
+      "period_s": 0.25,
+      "sigma_dbm": 2.0,
+      "loss_probability": 0.08,
+      "min_distance_m": 0.3,
+      "max_distance_m": 25.0
+    },
+    "imu": {
+      "gyro_bias_radps": 0.018,
+      "gyro_sigma_radps": 0.012,
+      "bias_walk_radps_sqrt_s": 0.0003,
+      "accel_sigma_mps2": 0.035
+    },
+    "encoder": {
+      "speed_sigma_mps": 0.035,
+      "yaw_sigma_radps": 0.025,
+      "speed_scale": 1.035,
+      "yaw_bias_radps": 0.006
+    },
+    "filter": {
+      "speed_sigma_mps_sqrt_s": 0.08,
+      "gyro_sigma_rad_sqrt_s": 0.025,
+      "bias_walk_radps_sqrt_s": 0.001,
+      "nis_gate": 16.0,
+      "motion_timeout_s": 0.3,
+      "ble_window_s": 1.0
+    }
+  },
+  "calibration_hash": "6ebfda7b86544befbe051ea336e4d104b60115adc4ce1f183335fedd92746c64",
+  "python": "3.10.12",
+  "numpy": "2.2.6",
+  "source_hash": "883b956a5f52620c53276cfe1527c1f49e417e9d465916730d1dbb494e4a4d87",
+  "gyro_bias_truth_available": false
+}
