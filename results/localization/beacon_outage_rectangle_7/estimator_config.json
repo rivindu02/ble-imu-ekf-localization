@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "track_m": 0.4,
+  "receiver_z_m": 0.35,
+  "start": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "filter": {
+    "speed_sigma_mps_sqrt_s": 0.08,
+    "gyro_sigma_rad_sqrt_s": 0.025,
+    "bias_walk_radps_sqrt_s": 0.001,
+    "nis_gate": 16.0,
+    "motion_timeout_s": 0.3,
+    "ble_window_s": 1.0
+  },
+  "beacons": [
+    {
+      "id": "B01",
+      "xyz": [
+        -3.0,
+        -2.0,
+        1.2
+      ]
+    },
+    {
+      "id": "B02",
+      "xyz": [
+        7.0,
+        -2.0,
+        1.2
+      ]
+    },
+    {
+      "id": "B03",
+      "xyz": [
+        7.0,
+        9.0,
+        1.2
+      ]
+    },
+    {
+      "id": "B04",
+      "xyz": [
+        -3.0,
+        9.0,
+        1.2
+      ]
+    }
+  ]
+}
