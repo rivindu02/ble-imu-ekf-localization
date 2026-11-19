@@ -1,0 +1,493 @@
+{
+  "trials": 20,
+  "seed_range": [
+    7,
+    26
+  ],
+  "status": "complete",
+  "source_hash": "9e929876853496d5989232894f6116dad8a6d824f787179cc239fcf00c6566b8",
+  "summary": [
+    {
+      "scenario": "beacon_outage",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.0661484689941996,
+          "rmse_sd_m": 0.13405307269884828,
+          "availability_mean": 0.7502242152466367
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.38837307809335486,
+          "rmse_sd_m": 0.08740995814403366,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.3424594254141078,
+          "rmse_sd_m": 0.0667225945507234,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "delayed_packets",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.066211340855614,
+          "rmse_sd_m": 0.1605601723108426,
+          "availability_mean": 0.9948430493273541
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.2937234705747473,
+          "rmse_sd_m": 0.056928061929657776,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.2888009458923907,
+          "rmse_sd_m": 0.046492687108955384,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "gyro_bias",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885875,
+          "rmse_sd_m": 0.17051641570766693,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.0197215721969153,
+          "rmse_sd_m": 0.09630413748779883,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.27168440351570655,
+          "rmse_sd_m": 0.049536664571772276,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.25722795902580126,
+          "rmse_sd_m": 0.039558192329874196,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.003696545173792,
+          "rmse_sd_m": 0.8364002320988101,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "miscalibration",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 9.05186852007822,
+          "rmse_sd_m": 0.12909530125438345,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.9804448584557914,
+          "rmse_sd_m": 0.5326996696713685,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 9.987490417612356,
+          "rmse_sd_m": 5.5308051759556935,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "nlos",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 7.03518601043096,
+          "rmse_sd_m": 0.17527339066046024,
+          "availability_mean": 0.997789878283152
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 2.72459762004505,
+          "rmse_sd_m": 2.4476286136431606,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 6.923852758997351,
+          "rmse_sd_m": 4.440297310039353,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "noisy_rssi",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 5.136573223192832,
+          "rmse_sd_m": 0.20582849100289075,
+          "availability_mean": 0.9975656630365153
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.6448673934251223,
+          "rmse_sd_m": 0.14549914669019437,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.6865095687290114,
+          "rmse_sd_m": 0.1468537202167646,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "nominal",
+      "route": "figure_eight",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.8753176260538476,
+          "rmse_sd_m": 0.10285135278126907,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.3308772459180992,
+          "rmse_sd_m": 0.1935798714128361,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 1.9366208949233006,
+          "rmse_sd_m": 0.10143397685881422,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.2499445817523788,
+          "rmse_sd_m": 0.03890821081835898,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.24719446477237797,
+          "rmse_sd_m": 0.03924524565234206,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.124094403316108,
+          "rmse_sd_m": 1.0830330576722478,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "nominal",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.0197215721969153,
+          "rmse_sd_m": 0.09630413748779883,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.27168440351570655,
+          "rmse_sd_m": 0.049536664571772276,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.2572279590258013,
+          "rmse_sd_m": 0.03955819232987407,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "nominal",
+      "route": "stationary",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.04643237638851586,
+          "rmse_sd_m": 0.02146274755250776,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.0463126769496927,
+          "rmse_sd_m": 0.021509095522870114,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.14516881624088,
+          "rmse_sd_m": 0.11419337736439479,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.15884060892873714,
+          "rmse_sd_m": 0.03026868426619199,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.16131018830372718,
+          "rmse_sd_m": 0.028921749981244922,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.097958292109957,
+          "rmse_sd_m": 0.9846983460452267,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "nominal",
+      "route": "straight",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.4166611143589929,
+          "rmse_sd_m": 0.03789772991199509,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.17926604348836733,
+          "rmse_sd_m": 0.07722162192745141,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.069890558709056,
+          "rmse_sd_m": 0.09685076449306317,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.2439047854610253,
+          "rmse_sd_m": 0.02897853356065481,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.22609432642999425,
+          "rmse_sd_m": 0.03283876651161979,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.5908902100820326,
+          "rmse_sd_m": 1.3039572958532866,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "overconfident",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.0302996473895005,
+          "rmse_sd_m": 0.09615629464264008,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.6522225069290899,
+          "rmse_sd_m": 0.16812788553636537,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.7629401439625416,
+          "rmse_sd_m": 0.32293538028273644,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "weak_geometry",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 0.7711158830505778,
+          "rmse_sd_m": 0.08750339717616087,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 0.34528443636885725,
+          "rmse_sd_m": 0.1705164157076673,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 1.9843386893343502,
+          "rmse_sd_m": 0.06534439096684731,
+          "availability_mean": 0.9978539397821908
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.2526697106511664,
+          "rmse_sd_m": 0.04662873766227535,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.2580100606559929,
+          "rmse_sd_m": 0.04768885413016694,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    },
+    {
+      "scenario": "wheel_slip",
+      "route": "rectangle",
+      "trials": 20,
+      "modes": {
+        "wheel_only": {
+          "rmse_mean_m": 2.0044176335757298,
+          "rmse_sd_m": 0.07608085694877738,
+          "availability_mean": 1.0
+        },
+        "wheel_imu": {
+          "rmse_mean_m": 1.8407109939774888,
+          "rmse_sd_m": 0.17449479858094327,
+          "availability_mean": 1.0
+        },
+        "ble_only": {
+          "rmse_mean_m": 2.0197215721969153,
+          "rmse_sd_m": 0.09630413748779883,
+          "availability_mean": 0.9979500320307496
+        },
+        "ble_wheel": {
+          "rmse_mean_m": 0.7166366679274491,
+          "rmse_sd_m": 0.07427587859041514,
+          "availability_mean": 1.0
+        },
+        "fused": {
+          "rmse_mean_m": 0.5708646173398044,
+          "rmse_sd_m": 0.06615897718050132,
+          "availability_mean": 1.0
+        },
+        "imu_only": {
+          "rmse_mean_m": 2.0036965451737934,
+          "rmse_sd_m": 0.8364002320988091,
+          "availability_mean": 1.0
+        }
+      }
+    }
+  ],
+  "elapsed_s": 712.4816060066223
+}
